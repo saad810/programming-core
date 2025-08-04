@@ -1,0 +1,20 @@
+int arr[4];
+int input = 0;
+while(input < 4)
+	cin>> digit
+	arr[input] = digit
+	input ++;
+
+
+//parse each index of array and do calculations
+int base = 2
+int sum = 0
+while(i<4)
+	sum += arr[i] * power(2,i)
+	input++
+
+
+cout<<sum
+	
+	
+	

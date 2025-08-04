@@ -1,0 +1,22 @@
+check if a number is a palindrome
+
+
+int number
+cin>>number
+
+string str_numb = to_string(number)
+
+
+
+int total_length = string.length();
+
+//reverse a string
+string rev_string = "";
+for(int j = total_length; i >= 0; j --)
+	rev_string += string[i]
+
+
+if (rev_string == string)
+	print(is palindrome)
+else
+	print(not a palindrome
